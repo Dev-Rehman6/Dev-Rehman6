@@ -29,12 +29,20 @@ I’m open to feedback and suggestions!</p>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">
 </p>
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-  <a href="https://github.com/Dev-Rehman6">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Rehman6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdur Rehman's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Rehman6&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Dev-Rehman6">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Rehman6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Abdur Rehman's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Dev-Rehman6">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Rehman6&layout=compact&langs_count=8&theme=tokyonight" height="180" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
