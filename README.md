@@ -14,3 +14,21 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Rehman6&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rehman6&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rehman6&theme=tokyonight" width="98%" />
+</p>
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Babu Ride** | Kotlin, Node.js, Express, MongoDB | Full-stack ride-hailing Android app with real-time tracking & security verification. |
+| **CityDrive** | Three.js, Node.js | 3D autonomous driving simulation built for web browsers. |
+| **Tooba Hotel** | React, Node.js, MongoDB | Hotel management & online booking web application. |
+| **ArgusX** | Python, Electron, Node.js | Cross-platform system monitoring desktop application. |
