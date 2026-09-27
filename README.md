@@ -1,16 +1,16 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="AbdurRehman Banner"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m AbdurRehman</h2><p></p>
-<!-- ## 👋 &nbsp;Hey there! I'm AbdurRehman -->
+  <p><img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=200&section=header&text=AbdurRehman&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="AbdurRehman Banner"></p>
+<p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m AbdurRehman</h2><p></p>
+
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Software Engineering at the University of Sir Syed University.<br>
+<p>💡 &nbsp;I like to explore new technologies and develop software solutions, full-stack applications, and mobile apps.<br>
+🎓 &nbsp;I’m currently studying Software Engineering at Sir Syed University.<br>
 🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="abdur.03.2006@gmail.com">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:abdur.03.2006@gmail.com">abdur.03.2006@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 I’m open to feedback and suggestions!</p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"><h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
