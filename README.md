@@ -53,3 +53,9 @@ I’m open to feedback and suggestions!</p>
 <hr>
 <p>Credits: <a href="https://github.com/Dev-Rehman6">Abdur Rehman</a></p>
 <p>Last Edited on: 27/09/2026</p>
+<h3 id="-github-activity">📈 &nbsp;GitHub Activity & Streak</h3>
+<p align="center">
+  <a href="https://github.com/Dev-Rehman6">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rehman6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
