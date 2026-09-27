@@ -1,5 +1,5 @@
-  <p><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></p>
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+  <p><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m AbdurRehman</h2><p></p>
 
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
