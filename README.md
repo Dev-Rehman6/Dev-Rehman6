@@ -50,5 +50,5 @@ I’m open to feedback and suggestions!</p>
   <a href="mailto:abdur.03.2006@gmail.com"><img src="https://img.shields.io/badge/-abdur.03.2006@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-<p>Last Edited on: 11/12/2020</p> 
+<p>Credits: <a href="https://github.com/Dev-Rehman6">Abdur Rehman</a></p>
+<p>Last Edited on: 27/09/2026</p>
