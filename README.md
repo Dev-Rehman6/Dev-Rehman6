@@ -30,10 +30,10 @@ I’m open to feedback and suggestions!</p>
 </p>
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
-<a href="https://github.com/Dev-Rehman6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rehman6&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rehman6&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
+  <a href="https://github.com/Dev-Rehman6">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rehman6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdur Rehman's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rehman6&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
