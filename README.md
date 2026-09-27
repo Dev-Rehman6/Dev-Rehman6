@@ -28,12 +28,11 @@ I’m open to feedback and suggestions!</p>
 <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&amp;logo=android-studio" alt="Android Studio">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">
 </p>
-
-<br clear="all"><h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+<a href="https://github.com/Dev-Rehman6">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rehman6&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rehman6&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
