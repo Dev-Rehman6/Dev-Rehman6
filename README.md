@@ -53,9 +53,3 @@ I’m open to feedback and suggestions!</p>
 <hr>
 <p>Credits: <a href="https://github.com/Dev-Rehman6">Abdur Rehman</a></p>
 <p>Last Edited on: 27/09/2026</p>
-<h3 id="-3d-contribution-graph">🧊 &nbsp;Contribution Graph</h3>
-<p align="center">
-  <a href="https://github.com/Dev-Rehman6">
-    <img src="https://github-profile-3d-contrib.puppetneko.workers.dev?username=Dev-Rehman6&theme=tokyonight" alt="3D Contribution Graph" />
-  </a>
-</p>
