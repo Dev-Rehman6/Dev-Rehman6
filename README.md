@@ -1,4 +1,4 @@
-  <p><img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=200&section=header&text=AbdurRehman&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="AbdurRehman Banner"></p>
+  <p><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"></p>
 <p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m AbdurRehman</h2><p></p>
 
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
