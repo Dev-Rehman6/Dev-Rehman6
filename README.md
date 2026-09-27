@@ -53,3 +53,12 @@ I’m open to feedback and suggestions!</p>
 <hr>
 <p>Credits: <a href="https://github.com/Dev-Rehman6">Abdur Rehman</a></p>
 <p>Last Edited on: 27/09/2026</p>
+<h3 id="-featured-projects">🚀 &nbsp;Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/Dev-Rehman6/Babu-Ride">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dev-Rehman6&repo=Babu-Ride&theme=tokyonight" alt="Babu Ride">
+  </a>
+  <a href="https://github.com/Dev-Rehman6/CityDrive">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dev-Rehman6&repo=CityDrive&theme=tokyonight" alt="CityDrive">
+  </a>
+</p>
